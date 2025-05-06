@@ -31,7 +31,4 @@
 
 ---
 
-## 📷 Pavyzdys
-
-![portfolio preview](https://github.com/GiedriusDk/GiedriusDk.github.io/assets/preview-image-id)
 
